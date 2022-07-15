@@ -3,7 +3,7 @@
 
 ### Hola 👋, Bienvenido
 
-![Estudiante de Ingeniería en Sistemas UMG](https://static.vecteezy.com/system/resources/thumbnails/000/344/684/small/27071.jpg)
+![Estudiante de Ingeniería en Sistemas UMG](http://68.media.tumblr.com/89e74da768a867c04ec578203db2bf40/tumblr_n8yjqzgDbJ1rnax4fo3_r1_500.gif)
 
 Soy estudiante de esta prestigiosa carrera y espero con mi aporte a la comunidad de programadores poder contribuir al desarrollo de nuevas plataformas.
 
