@@ -2,7 +2,7 @@
 ###  Ingeniería en Sistemas en UMG
 
 ### Hola 👋, Bienvenido
-#### Estudiante de Ingeniería en Sistemas UMG
+
 ![Estudiante de Ingeniería en Sistemas UMG](https://static.vecteezy.com/system/resources/thumbnails/000/344/684/small/27071.jpg)
 
 Soy estudiante de esta prestigiosa carrera y espero con mi aporte a la comunidad de programadores poder contribuir al desarrollo de nuevas plataformas.
