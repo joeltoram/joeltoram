@@ -1,5 +1,5 @@
-### Hola Bienvenido Te Saluda Joel 👋
-### Estudio Ingeniería en Sistemas en UMG
+###  Console.WriteLine("Hello World 👋!"); 
+###  Ingeniería en Sistemas en UMG
 
 
 - 🔭 I’m currently working on ...
